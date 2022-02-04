@@ -1,0 +1,1 @@
+URL_AFIP = "https://auth.afip.gob.ar/contribuyente_/login.xhtml?action=SYSTEM&system=rcel"
