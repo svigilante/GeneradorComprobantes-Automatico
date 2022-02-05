@@ -16,3 +16,5 @@ Generador de Comprobantes de AFIP Automatico, usando un Excel en donde:
 4. Una vez terminado de correr volverá a aparecer la ventana del programa con todos los datos previos ya cargados excepto el de Periodo Desde y el numero de fila, que habran cambiado (*el número de fila aumenta una unidad, con lo que se autorellena del Excel __Periodo Desde__*).
 
 6. Generar otro comprobante o cerrar el programa.
+
+> El programa cuenta con un Fail Safe, ante cualquier problema se puede llevar el mouse hasta la esquina izquierda superior de la computadora y el programa se detendrá. ;)
