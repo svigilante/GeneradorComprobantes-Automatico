@@ -17,4 +17,4 @@ Generador de Comprobantes de AFIP Automatico, usando un Excel en donde:
 
 6. Generar otro comprobante o cerrar el programa.
 
-> El programa cuenta con un Fail Safe, ante cualquier problema se puede llevar el mouse hasta la esquina izquierda superior de la computadora y el programa se detendrá. ;)
+> El programa cuenta con un Fail Safe, ante cualquier problema se puede llevar el mouse hasta la esquina izquierda superior de la computadora y el programa se detendrá.
