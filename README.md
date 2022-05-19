@@ -18,3 +18,20 @@ Generador de Comprobantes de AFIP Automatico, usando un Excel en donde:
 6. Generar otro comprobante o cerrar el programa.
 
 > El programa cuenta con un Fail Safe, ante cualquier problema se puede llevar el mouse hasta la esquina izquierda superior de la computadora y el programa se detendrá.
+
+## ¡La App!
+<img width="760" alt="image" src="https://user-images.githubusercontent.com/90156823/169200236-d55c9f74-22eb-4a13-b1f3-a1079d5c7bcf.png">
+
+_Ventana Inicial._
+
+
+<img width="675" alt="image" src="https://user-images.githubusercontent.com/90156823/169201455-0fec621d-3781-45d9-849d-62e9a003c9f6.png">
+
+_Ventana que aparece al presionar "Buscar Archivo" (solo nos dejará elegir archivos Excel.)_
+
+
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/90156823/169204814-1709a3e4-a3b8-4da8-ab67-29b814766ea7.gif)
+
+_Podemos ver que la celda Periodo Facturado "Desde" se actualiza automáticamente con cada cambio de la celda en donde indicamos la primer fila del Excel (a la derecha de la ventana.)_
+
+### Una vez llenadas todas las celdas, se debe tocar el botón "Empezar" para comenzar el proceso automático donde se abrirá el navegador y el programa completará los datos en la página de la AFIP a partir de lo extraido del Excel y los datos llenados.
